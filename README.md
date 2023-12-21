@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lily-Wiens
+- 👋 Hi, hola
 - 👀 I’m interested in Aging, Biochemistry and Physiology of ectotherms and the differences they have with the endotherms
 - 🌱 I’m currently learning R so help!
 - 💞️ I’m looking to collaborate on all things on aging and biochem
